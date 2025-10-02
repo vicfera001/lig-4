@@ -1,4 +1,4 @@
-# lig-4
+# Lig-4
 🧩 Versão educacional do Connect Four (Lig-4) em HTML + CSS + JavaScript, utilizada como recurso pedagógico para estimular lógica, estratégia e pensamento computacional no Ensino Médio. Este repositório disponibiliza uma versão digital do Connect Four (Lig-4) desenvolvida em HTML, CSS e JavaScript, pensada como recurso educacional para o Ensino Médio. 
 
 O jogo pode ser utilizado em sala de aula para promover estratégias matemáticas, raciocínio lógico e noções de programação.
